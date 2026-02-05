@@ -1,2 +1,2 @@
 # B2B Procurement & Order Management Platform
-<img width="1382" height="803" alt="image" src="https://github.com/user-attachments/assets/4f115c52-9824-4e68-aaff-e5bc0d93c610" />
+<iframe width="560" height="315" src='https://dbdiagram.io/e/6984404fbd82f5fce2b8bd7c/69844864bd82f5fce2b9ecc6'> </iframe>
